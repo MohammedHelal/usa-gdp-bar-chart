@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: garamond, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#root {
+  max-width: 150vw;
+  height: 100vh;
+  background-color: darkslategrey;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+}

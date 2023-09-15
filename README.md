@@ -7,3 +7,7 @@ This is a component built to display information on a barchart
 The BarChart was made using the d3 library, and the dataset was taken from this repo
 
 [Raw json data repo](https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/GDP-data.json)
+
+## Screenshot:
+
+![Screenshot image](./msc/usa-gdp-bar-chart.png)

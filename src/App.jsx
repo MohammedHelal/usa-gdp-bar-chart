@@ -67,7 +67,7 @@ function App() {
         .append("rect")
         .attr("x", (d, i) => xScale(years[i]))
         .attr("y", (d) => yScale(d[1]) - 30)
-        .attr("width", 2.9)
+        .attr("width", 2.5)
         .attr("height", (d) => h - padding - yScale(d[1]))
         .attr("class", "bar")
         .attr("data-date", (d) => d[0])
